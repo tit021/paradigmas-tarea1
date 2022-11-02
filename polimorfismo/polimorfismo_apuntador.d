@@ -1,0 +1,1 @@
+polimorfismo_apuntador.o polimorfismo_apuntador.d : polimorfismo/polimorfismo_apuntador.cpp
